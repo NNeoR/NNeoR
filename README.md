@@ -33,6 +33,5 @@ LinkedIn: www.linkedin.com/in/nneo-rendani
 
 ## 👯 Lets Collaborate!
 Feel free to connect with me to discuss technology, security, or photography!
-
-
-
+##
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NNeoR)](https://github.com/NNeoR/github-readme-stats)
